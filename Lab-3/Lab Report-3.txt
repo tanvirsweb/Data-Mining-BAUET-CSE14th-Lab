@@ -1,0 +1,22 @@
+Expt. no: 03
+Expt. Name: Introduction to Python libraries for Data Mining: Pandas and Matplotlib
+
+
+In this lab Report, we have to cover the following topics:
+
+1. Introduction to Pandas
+   - Creating a Pandas Series
+   - Creating a Pandas DataFrame
+
+2. Data Manipulation with Pandas
+   - Filtering Data
+   - Sorting Data
+   - Adding a New Column
+
+3. Introduction to Matplotlib
+   - Line Plot
+   - Bar Chart
+
+4. Data Visualization with Matplotlib
+   - Scatter Plot
+   - Histogram
